@@ -1,4 +1,4 @@
-###I make some minecraft stuff
+I make some minecraft stuff
 
 <!--
 **GhostIsBeHere/GhostIsBeHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
